@@ -1,2 +1,8 @@
-# find_my_img
-find images using pixabay API
+
+## Project description
+
+Use pixabay API for searching images.
+Used Material UI, React, Axios
+
+## View Demo
+

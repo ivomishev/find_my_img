@@ -1,0 +1,7 @@
+.rootContainer {
+  padding: 1rem;
+}
+
+body{
+  background-image: linear-gradient(to right, rgb(172, 172, 172), rgb(224, 247, 250));
+}
